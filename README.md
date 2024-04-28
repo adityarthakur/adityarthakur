@@ -1,10 +1,10 @@
-### Weclome to my Portfolio
+## Weclome to my Portfolio
 
 I am a data science professional with a Masters in Data Science and a Bachelor's in Chemical Engineering. I have worked in consulting and product for the last 6 years, advising executive stakeholders in healthcare, payments and automtive industries. Please see below my portfolio comprised of my work as a data science professional:
 
-## Investing
+### Investing
 
-## Georgia Tech M.S. Projects
+### Georgia Tech M.S. Projects
 
 <!--
 **adityarthakur/adityarthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
