@@ -13,9 +13,17 @@ In this project, I worked on multiple regression models to help sports bettors w
 
 #### Final Thesis
 In this project, I worked with AI+First Technology to develop and deploy a neural network model to identify and classify breast cancer ultrasound images to help providers find malignant tumors faster. Please read the report for an overview.
+
+
+
+## Content
+
+Technical analysis is nothing without proper explanation, so please see the following links where I explain my findings in an engaging way!
+
+Blog: https://medium.com/@adityarthakur
+
 <!--
 **adityarthakur/adityarthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
